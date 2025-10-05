@@ -1,0 +1,20 @@
+{
+  "Funcionarios": [
+    {
+      "id": 1,
+      "nome": "Ana Silva",
+      "cargo": "Enfermeira",
+      "setor": "Urgência",
+      "turno": "Noturno",
+      "salario": 4200
+    },
+    {
+      "id": 2,
+      "nome": "Paulo Costa",
+      "cargo": "Médico Clínico",
+      "setor": "Clínica Médica",
+      "turno": "Diurno",
+      "salario": 12000
+    }
+  ]
+}
